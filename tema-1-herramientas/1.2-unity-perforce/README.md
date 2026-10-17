@@ -25,7 +25,7 @@ Se agregó al proyecto un objeto nuevo, el prefab `CuboAzul`, con un material nu
 
 ## Capturas del proceso
 
-![Depósito FDV2627 con la carpeta angel y el proyecto Unity](img/01-p4v-depot-angel.png)
+![Depósito FDV2627 con la carpeta angel y el proyecto Unity](img/01-p4v-depot-%C3%A1ngel.png)
 
 *Figura 1. Depósito FDV2627 en P4V, con el proyecto en la carpeta angel.*
 
