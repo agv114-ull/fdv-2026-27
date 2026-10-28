@@ -16,7 +16,7 @@ Prácticas de Fundamentos del Desarrollo de Videojuegos · Máster en Desarrollo
 |:---:|:---:|---|---|---|---|---|
 | 1 | 1.1 | Git LFS en un proyecto Unity | Git + Git LFS | [agv114-ull/fdv-1-Git-LFS](https://github.com/agv114-ull/fdv-1-Git-LFS) | README del repo | ✅ Entregada |
 | 1 | 1.2 | Unity con Perforce | Perforce (P4V) | Depot `FDV2627` del servidor de la ULL, carpeta `angel/` | [Informe 1.2](tema-1-herramientas/1.2-unity-perforce/README.md) | ✅ Entregada |
-| 1 | 1.3 | Control de versiones de Unity | Unity Version Control | Repositorio de Unity Version Control | — | ⏳ Pendiente |
+| 1 | 1.3 | Control de versiones de Unity | Unity Version Control | Repositorio `My project/UnityVersion` de Unity Version Control (organización `agv114`) | [Informe 1.3](tema-1-herramientas/1.3-unity-version-control/README.md) | ✅ Entregada |
 | 2 | — | Scripts: movimiento rectilíneo 1 | Unity · C# | Repo Unity del tema 2 (por crear) | — | ⏳ Pendiente |
 | 2 | — | Ejercicios de físicas 3D | Unity · C# · Unity Version Control | Repositorio `My project/UnityVersion` de Unity Version Control (organización `agv114`) | [Informe](tema-2-scripts/fisicas-3d/README.md) | ✅ Entregada |
 
